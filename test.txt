@@ -1,3 +1,2 @@
 This is a dummy file
 This is a new line
-This is the final line
